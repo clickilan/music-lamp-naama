@@ -8,7 +8,7 @@
 #include <string.h>
 #include <CapacitiveSensor.h>
 #include <EEPROM.h>
-// #include <iostream.h> test
+// #include <iostream.h>
 
 #if defined(FASTLED_VERSION) && (FASTLED_VERSION < 3001000)
 #warning "Requires FastLED 3.1 or later; check github for latest code."
